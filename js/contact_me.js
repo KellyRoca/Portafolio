@@ -16,12 +16,6 @@ window.open('https://github.com/KellyRoca/LIM011-fe-burger-queen'));
 document.querySelector('#demo2').addEventListener('click', () =>
 window.open('https://kellyroca.github.io/LIM011-fe-burger-queen/'));
 
-//
-document.querySelector('#repo3').addEventListener('click', () =>
-window.open('https://github.com/KellyRoca/LIM011-fe-md-links'));
-
-// document.querySelector('#demo3').addEventListener('click', () =>
-// window.open('https://kellyroca.github.io/LIM011-data-lovers/src/'));
 
 // buttons of contact
 document.querySelector('#logoWhatsapp').addEventListener('click', () => 
