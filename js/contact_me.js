@@ -11,10 +11,10 @@ window.open('https://kellyroca.github.io/LIM011-data-lovers/src/'));
 
 //
 document.querySelector('#repo2').addEventListener('click', () =>
-window.open('https://github.com/KellyRoca/LIM011-fe-social-network'));
+window.open('https://github.com/KellyRoca/LIM011-fe-burger-queen'));
 
 document.querySelector('#demo2').addEventListener('click', () =>
-window.open('https://kellyroca.github.io/LIM011-fe-social-network/SPA/'));
+window.open('https://kellyroca.github.io/LIM011-fe-burger-queen/'));
 
 //
 document.querySelector('#repo3').addEventListener('click', () =>
